@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "some ceremony",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkS_l2dbA8P5Hv5BCwfoRQEsopPMuUQhFkCA&usqp=CAU",
+      "date": "2023-01-04",
+      "description": "fuck this now",
+      "id": "94536004-6c4f-40d2-beed-fefaae3818d6"
+    },
+    {
+      "title": "Wedding Ceremony",
+      "image": "https://www.fedracongressi.com/fedra/wp-content/uploads/2016/02/revelry-event-designers-homepage-slideshow-38.jpeg",
+      "date": "2023-02-05",
+      "description": "Sagar weds Khushi",
+      "id": "a67f89bf-691e-4cad-a3ca-58c268522df8"
+    },
+    {
+      "title": "Fall Out Boy Concert",
+      "image": "https://images.shiksha.com/mediadata/images/articles/1583747992phpzaxKKK.jpeg",
+      "date": "2023-02-01",
+      "description": "A aweseome event",
+      "id": "8cf78878-04c9-40d5-9526-c8033fc6788b"
+    },
+    {
       "id": "e1",
       "title": "A dummy event",
       "date": "2023-02-22",
